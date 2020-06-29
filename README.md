@@ -1,4 +1,4 @@
 # Bachelor-thesis
-* A system for monitoring for monitoring the life environment of plants. 
+* A system for monitoring the life environment of plants. 
 * Using the STM32F4 microcomputer and the web aplication, the user has all of his plants under control from any place even from his own mobile phone. The user places the microcomputer to his plant pot, connects it into his WiFi network and checks the last measured data, graphs with long-term environment charts and manages his list of pots. Web applications backend is built on OWIN and WebAPI in C#. Frontend was made with modern framework Angular 5 and has a form of a Single Page Application. The firmware of the microcomputer in written in C++. 
 * https://is.cuni.cz/webapps/zzp/detail/200483/45721948/?q=%7B%22______searchform___search%22%3A%22Smart+plant+pot%22%2C%22______searchform___butsearch%22%3A%22Vyhledat%22%2C%22PNzzpSearchListbasic%22%3A1%7D&lang=cs
